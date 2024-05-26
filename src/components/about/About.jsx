@@ -13,12 +13,12 @@ const About = () => {
           <div className='left row'>
             <Heading title='Our Agency Story' subtitle='Check out our company story and work process' />
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+            <p> RentUp is a group of professionals from all walks of life - sharing a common passion for wealth creation and a deep understanding of investments and commercial real estate.</p>
+            <p> RentUp utilizes data-driven insights and in-depth experience to help clients make safe, calculated investment choices with the aim of building a stable, long-term portfolio.</p>
             <button className='btn2'>More About Us</button>
           </div>
           <div className='right row'>
-            <img src='./immio.jpg' alt='' />
+            <img src='./immio.png' alt='' />
           </div>
         </div>
       </section>
